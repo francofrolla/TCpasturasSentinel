@@ -10,17 +10,17 @@ Requerimientos:
 Se debe identificar mediante poligonos las areas a estimar la Tasa de crecimiento, la misma puede hacer referencia a lotes, ambientes, zona.    
 Para cada Poligono se debe identificar el cultivo presente mediante las siguientes etiquetas en un columna llamada **CULTIVOS**, se pueden agregar otras columnas sin que esto afecte el programa:
 
-VERDEO INVIERNO
-CN+AGRO
-CN+FEST
-CAMPO NATURAL
-PASTURA ALFALFA
-PASTURA CONSOCIADA
-PASTURA AGROPIRO
-ALFALFA PURA
-PASTURA FESTUCA
-VERDEO SORGO
-VERDEO MAIZ
-
+VERDEO INVIERNO  
+CN+AGRO  
+CN+FEST  
+CAMPO NATURAL  
+PASTURA ALFALFA  
+PASTURA CONSOCIADA  
+PASTURA AGROPIRO  
+ALFALFA PURA  
+PASTURA FESTUCA  
+VERDEO SORGO  
+VERDEO MAIZ  
+  
 Vista de una tabla de atributos lista para la carga del archivo en la app:
 
