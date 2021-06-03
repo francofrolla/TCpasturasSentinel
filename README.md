@@ -48,4 +48,4 @@ https://www.youtube.com/watch?v=OqIvd163nVU
 ### Update 28/05/2021
 1) Soporte para mutiploygonos.
 2) Detector de columna CULTIVOS.
-3) Deterctor de variables regresoras.
+3) Detector de variables regresoras.
