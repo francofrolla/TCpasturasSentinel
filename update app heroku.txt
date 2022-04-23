@@ -1,0 +1,11 @@
+PS C:\Users\ketchup> cd tcpasturassentinel2
+PS C:\Users\ketchup\tcpasturassentinel2> git add .
+PS C:\Users\ketchup\tcpasturassentinel2> git commit -m "prueba"
+PS C:\Users\ketchup\tcpasturassentinel2> git push heroku master
+
+
+
+acceso SSH
+
+heroku login
+heroku ps:exec --app=scoreboard-backend-dev
