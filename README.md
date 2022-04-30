@@ -49,3 +49,20 @@ https://www.youtube.com/watch?v=OqIvd163nVU
 1) Soporte para mutiploygonos.
 2) Detector de columna CULTIVOS.
 3) Detector de variables regresoras.
+
+### Instalar paquetes desde CONDA varios problemas con pip
+conda create --name my-env-name --file requerimientos_short_2.txt --channel conda-forge
+
+requerimientos_short_2.txt >
+notebook
+voila
+voila-material
+geemap
+earthengine-api
+ipywidgets
+geopandas
+
+Tambien se probee un txt con los paquetes extraidos por conda. Se pueden usar para replicar el environment
+conda create --name <env> --file package-list-tcpasturas.txt
+
+
