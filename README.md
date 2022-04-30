@@ -45,7 +45,7 @@ El autor no se hace responsable por el uso de los datos generados por la aplicac
 ### Video en Youtube
 https://www.youtube.com/watch?v=OqIvd163nVU
 
-### Update 28/05/2021
+### Update 30/04/2022
 1) Soporte para mutiploygonos.
 2) Detector de columna CULTIVOS.
 3) Detector de variables regresoras.
